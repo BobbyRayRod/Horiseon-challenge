@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 /* changed .header div to nav */
+/* connected nav bar to corrosponding links  */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
